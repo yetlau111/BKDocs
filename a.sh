@@ -1,4 +1,3 @@
-set -eou
 git add .
 echo $?
 git commit -m "1"
